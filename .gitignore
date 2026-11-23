@@ -8,5 +8,6 @@ htmlcov/
 data/db/
 data/index/
 .claude/settings.local.json
-docs/
+docs/presentation/
+docs/chat_history.md
 logs/

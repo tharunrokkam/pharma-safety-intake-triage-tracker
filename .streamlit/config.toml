@@ -1,0 +1,8 @@
+# Strictly local execution (spec section 3): bind to loopback only, no telemetry.
+[server]
+address = "localhost"
+headless = true
+
+[browser]
+gatherUsageStats = false
+serverAddress = "localhost"

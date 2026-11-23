@@ -1,0 +1,79 @@
+{
+  "_note": "Entirely fictional training data. Products, lots and events are invented. No real persons.",
+  "historical": [
+    {
+      "report_type": "Suspected Adverse Event",
+      "product_name": "Fictivex 20mg",
+      "batch_id": "LOT-88392",
+      "date_received": "2026-03-04",
+      "reporter_type": "Pharmacist",
+      "description": "Pharmacist relayed a call in which the reporter described shortness of breath and wheezing about one hour after the first tablet from this pack.",
+      "event_description": "Dyspnea and wheezing reported approximately one hour after intake; reporter said symptoms eased later the same day.",
+      "event_onset_date": "2026-03-02"
+    },
+    {
+      "report_type": "Product Quality Complaint",
+      "product_name": "Placebrix 5mg",
+      "batch_id": "LOT-10457",
+      "date_received": "2026-04-11",
+      "reporter_type": "Consumer",
+      "description": "Consumer reported several cracked and chipped tablets inside a sealed blister strip; sample available for return."
+    },
+    {
+      "report_type": "Suspected Adverse Event",
+      "product_name": "Nullamycin 250mg",
+      "batch_id": "LOT-55120",
+      "date_received": "2026-05-19",
+      "reporter_type": "Healthcare Professional",
+      "description": "Clinic nurse reported a widespread itchy rash with raised welts on the second day of the course.",
+      "event_description": "Urticaria (hives) with pruritus noted on day two of use.",
+      "event_onset_date": "2026-05-17"
+    },
+    {
+      "report_type": "Product Quality Complaint",
+      "product_name": "Fictivex 20mg",
+      "batch_id": "LOT-88392",
+      "date_received": "2026-06-02",
+      "reporter_type": "Sales Representative",
+      "description": "Field representative observed outer cartons from this lot with smudged and partially illegible expiry date printing."
+    },
+    {
+      "report_type": "Suspected Adverse Event",
+      "product_name": "Placebrix 5mg",
+      "batch_id": "LOT-10457",
+      "date_received": "2026-07-23",
+      "reporter_type": "Consumer",
+      "description": "Reporter described feeling faint and lightheaded when standing up during the first week of use.",
+      "event_description": "Episode of near-syncope and dizziness on standing during week one.",
+      "event_onset_date": "2026-07-20"
+    },
+    {
+      "report_type": "Product Quality Complaint",
+      "product_name": "Nullamycin 250mg",
+      "batch_id": "LOT-55120",
+      "date_received": "2026-08-30",
+      "reporter_type": "Pharmacist",
+      "description": "Pharmacist found a leaking bottle cap and crystallised residue around the neck of the oral suspension bottle."
+    }
+  ],
+  "demo": [
+    {
+      "report_type": "Suspected Adverse Event",
+      "product_name": "Fictivex 20mg",
+      "batch_id": "LOT-88392",
+      "date_received": "2026-11-20",
+      "reporter_type": "Healthcare Professional",
+      "description": "Physician's office called to report that the reporter experienced difficulty breathing and throat tightness shortly after a dose from this batch.",
+      "event_description": "Difficulty breathing with throat tightness within thirty minutes of use; resolved after on-site care.",
+      "event_onset_date": "2026-11-19"
+    },
+    {
+      "report_type": "Product Quality Complaint",
+      "product_name": "Placebrix 5mg",
+      "batch_id": "LOT-10457",
+      "date_received": "2026-11-21",
+      "reporter_type": "Pharmacist",
+      "description": "Pharmacist reported discoloured, brownish-speckled tablets in two sealed bottles from the same lot; samples quarantined for return."
+    }
+  ]
+}
